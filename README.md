@@ -1,2 +1,3 @@
-![image](https://github.com/prakashjsharma/Twitter-Tweet-Flow/assets/51846543/96e26c36-fef1-4180-9512-cf062ee7bbb4)
+![image](https://github.com/prakashjsharma/Twitter-Tweet-Flow/assets/51846543/97f92825-5253-48d8-817d-c75c3e78c5da)
+
 # Twitter-Tweet-Flow
